@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+Weather App ☀️🌧️❄️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+📌 Opis projektu
 
-## Available Scripts
+Weather App to nowoczesna aplikacja webowa do sprawdzania prognozy pogody dla wybranego miasta. Umożliwia użytkownikom szybki podgląd temperatury, warunków atmosferycznych oraz prognozy na nadchodzące dni.
 
-In the project directory, you can run:
+🎨 Funkcje
 
-### `npm start`
+✅ Wyszukiwanie pogody dla dowolnego miasta 🌍✅ Wyświetlanie aktualnej temperatury oraz odczuwalnej 🏙️✅ Ikony pogodowe dynamicznie dostosowujące się do warunków 🌦️✅ Przejrzysty i nowoczesny interfejs z obsługą Dark Mode 🌑✅ Płynne animacje i responsywność dla różnych urządzeń 📱💻
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🛠️ Technologie
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+React.js ⚛️ - główny framework aplikacji
 
-### `npm test`
+Tailwind CSS 🎨 - stylowanie interfejsu
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Vite 🚀 - szybszy build i rozwój
 
-### `npm run build`
+OpenWeather API ☁️ - dane pogodowe
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Framer Motion 🎬 - animacje
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+React Router 🔀 - nawigacja po aplikacji
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+🚀 Jak uruchomić projekt?
 
-### `npm run eject`
+1️⃣ Klonowanie repozytorium
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+git clone https://github.com/Steklowataa/weather-app.git
+cd weather-app
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2️⃣ Instalacja zależności
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+npm install
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3️⃣ Uruchomienie aplikacji lokalnie
 
-## Learn More
+npm run dev
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Aplikacja będzie dostępna pod adresem: http://localhost:5173
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+🌑 Jak działa Dark Mode?
 
-### Code Splitting
+Aplikacja zawiera Dark Mode Toggle, który pozwala przełączać się między jasnym i ciemnym motywem. Tryb ciemny zapisuje się w localStorage, dzięki czemu użytkownik nie musi go ustawiać ponownie po odświeżeniu strony.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+🎥 Demo
 
-### Analyzing the Bundle Size
+🚧 (Wkrótce dostępne) 🚧
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+📸 Screenshot
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+🤝 Współpraca
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Chcesz pomóc rozwijać ten projekt? Śmiało, forkuj repozytorium i wysyłaj pull requesty! 🙌
 
-### Deployment
+📜 Licencja
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Ten projekt jest dostępny na licencji MIT. Możesz go dowolnie modyfikować i używać w swoich projektach.
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🚀 Stworzony przez Steklowataa 💙
