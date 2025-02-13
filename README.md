@@ -6,7 +6,7 @@ Weather App to nowoczesna aplikacja webowa do sprawdzania prognozy pogody dla wy
 
 ## Link to project in Figma
 
-`[https://www.figma.com/design/A93jyhSZ0fhSSerrUahOs1/Untitled?node-id=0-1&m=dev&t=G9kgESZ9QaYSIDaW-1](https://shorturl.at/KnGSR)`
+`https://shorturl.at/KnGSR`
 
 ## 🎨 Funkcje
 
